@@ -14,9 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="sample-large.log">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Update="sample.log">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

@@ -2,6 +2,6 @@
 {
     public interface ILogEntryParser
     {
-        LogEntry Parse(string rawLogEntry);
+        LogEntry Parse(string input);
     }
 }

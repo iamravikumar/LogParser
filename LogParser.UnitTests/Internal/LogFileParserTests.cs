@@ -3,7 +3,7 @@ using FluentAssertions;
 using LogParser.Internal;
 using NUnit.Framework;
 
-namespace LogParser.Tests
+namespace LogParser.Tests.Internal
 {
     public class LogFileParserTests
     {
